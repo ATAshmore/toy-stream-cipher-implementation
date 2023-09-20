@@ -73,5 +73,3 @@ bash VerifyingYourSolution1.sh
 
 - Ensure that the LibTomCrypt and ZeroMQ libraries are properly installed and configured on your system.
 - The code provided here is a toy stream cipher implementation for educational purposes. It is not intended for production use.
-
-Please feel free to reach out if you have any questions or need further assistance with this project.
